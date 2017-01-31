@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* A smart curve tool for unity (Still a WIP)
+* A curve tool for unity (Still a WIP)
 * 0.0.0
 
 ### How do I get set up? ###
@@ -11,9 +11,7 @@
 
 ### Contribution guidelines ###
 
-* Writing tests?
-* Code review?
-* Other guidelines?
+* Coming soon...
 
 ### Who do I talk to? ###
 
