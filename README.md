@@ -7,6 +7,7 @@
 
 ### How do I get set up? ###
 
+* Have Unity 5.4 installed 
 * Drag and drop into assets folder 
 
 ### Contribution guidelines ###
