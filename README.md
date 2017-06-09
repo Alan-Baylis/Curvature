@@ -1,19 +1,33 @@
-# README #
+# Curvature - Curve Tool
 
-### What is this repository for? ###
+A tool for Unity to create and manipulate splines. Please note that this project is stil a WIP 
 
-* A curve tool for unity (Still a WIP)
-* 0.0.0
+## Getting Started
 
-### How do I get set up? ###
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-* Have Unity 5.4 installed 
+### Prerequisites
+
+* Unity 5.4 or later
+
+### Installing
+
+* Click clone and download and then 'Download Zip'
+* Extract Zip
 * Drag and drop into assets folder 
 
-### Contribution guidelines ###
+#### Usage
 
-* Coming soon...
+Along the toolbar in Unity, click 'Window' then 'Level Generator'. A window with configurable settings should appear. For the Hauberk setting, please use a Quad or Cube for the transform.
 
-### Who do I talk to? ###
+### Future Plans
 
-* Contact me if there are any more issues
+* Add presets for spline generation
+
+## Authors
+
+* **kp16** - *Initial work* - [kp16](https://github.com/kp16)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kp16/Curvature/blob/master/LICENSE) file for details
